@@ -1,0 +1,2 @@
+# TIDRC
+first repositary
